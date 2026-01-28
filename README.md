@@ -2,10 +2,6 @@
 <h3 align="center">AI & Data Science Student | Machine Learning Intern | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rushikeshlandge25&label=Profile%20Views&color=0e75b6&style=flat" alt="rushikeshlandge25" />
-</p>
-
-<p align="center">
  🔍 Exploring the intersection of 🌟 Data Science, 🤖 Machine Learning, and 🛠️ Problem-Solving!
 </p>
 
@@ -18,13 +14,13 @@ Currently, I am working as a **Machine Learning Intern at Manasvi Tech Solutions
 
 ### 📈 Current Goals
 * 🤖 Deepening my knowledge in **Machine Learning** and **Deep Learning** algorithms.
-* 🛠️ Working on impactful projects like **Customer Churn Prediction** and **Sentiment Analysis**.
+* 🛠️ Working on impactful projects like **Customer Churn Prediction**.
 * 💻 Solving complex problems on **LeetCode** to master Data Structures.
-* 🌍 Building AI solutions for social good, such as my work on **Rock Fall Prediction** and **Smart Crop Advisory** systems.
+* 🌍 Building AI solutions for social good, such as my work on **Smart Crop Advisory** systems.
 
 ### 🔭 I’m currently working on
 - [mlproject](https://github.com/rushikeshlandge25/mlproject)
-- **Internship Projects:** Customer Churn Prediction & YouTube Comment Sentiment Analysis.
+- **Internship Projects:** Customer Churn Prediction.
 
 ---
 
