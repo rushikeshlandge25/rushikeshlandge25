@@ -19,7 +19,7 @@ I have successfully completed my **Machine Learning Internship at Manasvi Tech S
 * 💻 Solving complex problems on **LeetCode** to master Data Structures.
 
 ### 🔭 I’m currently working on
-- [HyperTrack](https://github.com/rushikeshlandge25/hypertrack) — currently Working on
+- [HyperTrack](https://github.com/rushikeshlandge25/hypertrack) — Currently Working on
 - **Second-Hand Car Recommendation System (Completed):** [Car_recommendation_system](https://github.com/rushikeshlandge25/Car_recommendation_system)
 
 ---
