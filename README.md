@@ -8,19 +8,20 @@
 ---
 
 ### 📌 About Me
-Hi there! 👋 I'm a Third Year **Artificial Intelligence & Data Science** student with a passion for building predictive systems and solving algorithmic challenges. 
-
+Hi there! 👋 I'm a Final Year **Artificial Intelligence & Data Science** student with a passion for building predictive systems and solving algorithmic challenges. 
 I have successfully completed my **Machine Learning Internship at Manasvi Tech Solutions**, where I worked on real-world data problems and gained hands-on experience in building predictive models. I am also actively honing my problem-solving skills in **Python** and **Data Structures & Algorithms**.
 
 ### 📈 Current Goals
 * 🤖 Deepening my knowledge in **Machine Learning** and **Deep Learning** algorithms.
+* 🧠 Completed core **Deep Learning** concepts — RNN, CNN, LSTM, GRU, Attention, Encoder-Decoder, and Transformers.
+* 🚀 Now exploring **Generative AI** — **LangChain** and **RAG (Retrieval-Augmented Generation)**.
 * 🛠️ Working on impactful projects like **Customer Churn Prediction**.
 * 💻 Solving complex problems on **LeetCode** to master Data Structures.
 * 🌍 Building AI solutions for social good, such as my work on **Smart Crop Advisory** systems.
 
 ### 🔭 I’m currently working on
-- [mlproject](https://github.com/rushikeshlandge25/mlproject)
-- **Internship Project (Completed):** Customer Churn Prediction.
+- [HyperTrack](https://github.com/rushikeshlandge25/hypertrack) — currently Working on
+- **Second-Hand Car Recommendation System (Completed):** [Car_recommendation_system](https://github.com/rushikeshlandge25/Car_recommendation_system)
 
 ---
 
