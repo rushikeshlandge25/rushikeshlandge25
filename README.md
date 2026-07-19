@@ -15,9 +15,8 @@ I have successfully completed my **Machine Learning Internship at Manasvi Tech S
 * 🤖 Deepening my knowledge in **Machine Learning** and **Deep Learning** algorithms.
 * 🧠 Completed core **Deep Learning** concepts — RNN, CNN, LSTM, GRU, Attention, Encoder-Decoder, and Transformers.
 * 🚀 Now exploring **Generative AI** — **LangChain** and **RAG (Retrieval-Augmented Generation)**.
-* 🛠️ Working on impactful projects like **Customer Churn Prediction**.
+* 🛠️ Completed impactful projects like **Customer Churn Prediction**.
 * 💻 Solving complex problems on **LeetCode** to master Data Structures.
-* 🌍 Building AI solutions for social good, such as my work on **Smart Crop Advisory** systems.
 
 ### 🔭 I’m currently working on
 - [HyperTrack](https://github.com/rushikeshlandge25/hypertrack) — currently Working on
